@@ -48,7 +48,7 @@ public class EndSingleClassDemoEnd {
 }
 
 
-public class TestSingleClassDemo {
+class TestSingleClassDemo4 {
     @Test
     public void testInstance() {
         new Thread("t1") {
